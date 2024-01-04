@@ -1,0 +1,438 @@
+{
+    "A": [
+        [
+            "Apple",
+            "A fruit with red, green, or yellow skin and sweet to tart crisp whitish flesh."
+        ],
+        [
+            "Ant",
+            "A small insect known for its community-oriented colonies."
+        ],
+        [
+            "Aurora",
+            "A natural electrical phenomenon characterized by the appearance of streamers of reddish or greenish light in the sky."
+        ],
+        [
+            "Azure",
+            "The blue color of the clear sky."
+        ],
+        [
+            "Arch",
+            "A curved symmetrical structure spanning an opening and typically supporting weight from above."
+        ],
+        [
+            "Abyss",
+            "A deep or seemingly bottomless chasm."
+        ],
+        [
+            "Allegory",
+            "A story, poem, or picture that can be interpreted to reveal a hidden meaning."
+        ],
+        [
+            "Alchemy",
+            "A medieval chemical science aimed at the transmutation of metals."
+        ],
+        [
+            "Apex",
+            "The top or highest part of something."
+        ],
+        [
+            "Animate",
+            "Bring to life."
+        ]
+    ],
+    "B": [
+        [
+            "Book",
+            "A written or printed work consisting of pages glued or sewn together along one side and bound in covers."
+        ],
+        [
+            "Breeze",
+            "A gentle wind."
+        ],
+        [
+            "Bard",
+            "A poet, traditionally one reciting epics and associated with a particular oral tradition."
+        ],
+        [
+            "Basil",
+            "A fragrant herb used in cooking."
+        ],
+        [
+            "Blink",
+            "Shut and open the eyes quickly."
+        ],
+        [
+            "Bounty",
+            "A generous gift or reward."
+        ],
+        [
+            "Blend",
+            "Mix together different elements."
+        ],
+        [
+            "Bloom",
+            "Produce flowers; be in flower."
+        ],
+        [
+            "Brisk",
+            "Active, fast, and energetic."
+        ],
+        [
+            "Blur",
+            "Make or become unclear or less distinct."
+        ]
+    ],
+    "C": [
+        [
+            "Canyon",
+            "A deep gorge, typically one with a river flowing through it."
+        ],
+        [
+            "Cascade",
+            "A small waterfall, typically one of several that fall in stages down a steep rocky slope."
+        ],
+        [
+            "Cerulean",
+            "Deep blue in color like a clear sky."
+        ],
+        [
+            "Charm",
+            "The power or quality of delighting, attracting, or fascinating others."
+        ],
+        [
+            "Chorus",
+            "A large organized group of singers, especially one that performs together with an orchestra or opera company."
+        ],
+        [
+            "Cipher",
+            "A secret or disguised way of writing; a code."
+        ],
+        [
+            "Clarity",
+            "The quality of being clear, in particular."
+        ],
+        [
+            "Climax",
+            "The most intense, exciting, or important point of something."
+        ],
+        [
+            "Cloak",
+            "A sleeveless outdoor overgarment that hangs loosely from the shoulders."
+        ],
+        [
+            "Comet",
+            "A celestial object consisting of a nucleus of ice and dust and, when near the sun, a \u2018tail\u2019 of gas and dust particles pointing away from the sun."
+        ]
+    ],
+    "D": [
+        [
+            "Delve",
+            "Reach inside a receptacle and search for something."
+        ],
+        [
+            "Desire",
+            "A strong feeling of wanting to have something or wishing for something to happen."
+        ],
+        [
+            "Dexterous",
+            "Showing or having skill, especially with the hands."
+        ],
+        [
+            "Diadem",
+            "A jeweled crown or headband worn as a symbol of sovereignty."
+        ],
+        [
+            "Dialect",
+            "A particular form of a language which is peculiar to a specific region or social group."
+        ],
+        [
+            "Diorama",
+            "A model representing a scene with three-dimensional figures."
+        ],
+        [
+            "Disguise",
+            "Give (someone or oneself) a different appearance in order to conceal one's identity."
+        ],
+        [
+            "Doodle",
+            "Scribble absentmindedly."
+        ],
+        [
+            "Drought",
+            "A prolonged period of abnormally low rainfall; a shortage of water."
+        ],
+        [
+            "Dynasty",
+            "A line of hereditary rulers of a country."
+        ]
+    ],
+    "E": [
+        ["Echo", "A sound caused by the reflection of sound waves from a surface back to the listener."],
+        ["Eclipse", "An event in which the shadow of one celestial body falls on another."],
+        ["Elixir", "A magical or medicinal potion."],
+        ["Eloquent", "Fluent or persuasive in speaking or writing."],
+        ["Enigma", "A person or thing that is mysterious, puzzling, or difficult to understand."],
+        ["Empathy", "The ability to understand and share the feelings of another."],
+        ["Enigma", "A person or thing that is mysterious or difficult to understand."],
+        ["Euphoria", "A feeling of intense excitement and happiness."],
+        ["Exquisite", "Extremely beautiful and delicate."],
+        ["Extravagant", "Lacking restraint in spending money or using resources."]
+    ],
+    "F": [
+        ["Facade", "The face of a building, especially the principal front."],
+        ["Fathom", "Understand after much thought."],
+        ["Feisty", "Lively, determined, and courageous."],
+        ["Felicity", "Intense happiness."],
+        ["Fjord", "A long, narrow, deep inlet of the sea between high cliffs."],
+        ["Flourish", "Grow or develop in a healthy or vigorous way."],
+        ["Flutter", "Move with quick wavering or flapping movements."],
+        ["Fragile", "Easily broken or damaged."],
+        ["Fresco", "A technique of mural painting."],
+        ["Furtive", "Attempting to avoid notice or attention."]
+    ],
+    "G": [
+        ["Galaxy", "A system of millions or billions of stars, together with gas and dust."],
+        ["Gambit", "A device, action, or opening remark, typically one entailing a degree of risk."],
+        ["Genesis", "The origin or mode of formation of something."],
+        ["Glimmer", "A faint or unsteady light; a shimmer."],
+        ["Gregarious", "Fond of company; sociable."],
+        ["Gusto", "Enjoyment or vigor in doing something; zest."],
+        ["Gyrate", "Move in a circle or spiral, especially quickly."],
+        ["Gallant", "Brave; heroic."],
+        ["Garland", "A wreath of flowers and leaves, worn on the head or hung as a decoration."],
+        ["Glimpse", "A momentary or partial view."]
+    ],
+    "H": [
+        ["Harmony", "The combination of simultaneously sounded musical notes to produce a pleasing effect."],
+        ["Horizon", "The line at which the earth's surface and the sky appear to meet."],
+        ["Humble", "Having or showing a modest or low estimate of one's importance."],
+        ["Hypnosis", "A state of consciousness involving focused attention and reduced peripheral awareness."],
+        ["Habitat", "The natural home or environment of an animal, plant, or other organism."],
+        ["Havoc", "Widespread destruction."],
+        ["Heirloom", "A valuable object that has belonged to a family for several generations."],
+        ["Hologram", "A three-dimensional image formed by the interference of light beams."],
+        ["Hydrate", "Cause to absorb water."],
+        ["Hyperbole", "Exaggerated statements or claims not meant to be taken literally."]
+    ],
+    "I": [
+        ["Illusion", "A thing that is or is likely to be wrongly perceived or interpreted by the senses."],
+        ["Imagine", "Form a mental image or concept of."],
+        ["Impromptu", "Done without being planned or rehearsed."],
+        ["Inertia", "A tendency to do nothing or to remain unchanged."],
+        ["Infinite", "Limitless or endless in space, extent, or size."],
+        ["Innovate", "Make changes in something established, especially by introducing new methods."],
+        ["Insight", "The capacity to gain an accurate and deep understanding of someone or something."],
+        ["Intrepid", "Fearless; adventurous."],
+        ["Invoke", "Call on (a deity or spirit) in prayer, as a witness, or for inspiration."],
+        ["Iridescent", "Showing luminous colors that seem to change when seen from different angles."]
+    ],
+    "J": [
+        ["Jubilant", "Feeling or expressing great happiness and triumph."],
+        ["Juxtapose", "Place or deal with close together for contrasting effect."],
+        ["Jargon", "Special words or expressions used by a profession or group."],
+        ["Journey", "An act of traveling from one place to another."],
+        ["Jovial", "Cheerful and friendly."],
+        ["Judicious", "Having, showing, or done with good judgment or sense."],
+        ["Juggernaut", "A huge, powerful, and overwhelming force."],
+        ["Juncture", "A particular point in events or time."],
+        ["Jurisdiction", "The official power to make legal decisions and judgments."],
+        ["Justify", "Show or prove to be right or reasonable."]
+    ],
+    "K": [
+        ["Kaleidoscope", "A toy consisting of a tube containing mirrors and pieces of colored glass."],
+        ["Keen", "Having or showing eagerness or enthusiasm."],
+        ["Kindle", "Light or set on fire; arouse or inspire."],
+        ["Knack", "An acquired or natural skill at doing something."],
+        ["Knoll", "A small hill or mound."],
+        ["Knowledge", "Facts, information, and skills acquired through experience or education."],
+        ["Kudos", "Praise and honor received for an achievement."],
+        ["Kaleidoscopic", "Having complex patterns of colors; multicolored."],
+        ["Kerfuffle", "A commotion or fuss."],
+        ["Knit", "Make (a garment) by interlocking loops of wool with needles."]
+    ],
+    "L": [
+        ["Labyrinth", "A complicated irregular network of passages or paths."],
+        ["Luminous", "Full of or shedding light; bright or shining."],
+        ["Luscious", "Having a pleasingly rich, sweet taste."],
+        ["Lethargy", "A lack of energy and enthusiasm."],
+        ["Latitude", "The scope for freedom of action or thought."],
+        ["Lavish", "Sumptuously rich, elaborate, or luxurious."],
+        ["Legacy", "An amount of money or property left to someone in a will."],
+        ["Liaison", "Communication or cooperation which facilitates a close working relationship."],
+        ["Liberty", "The state of being free within society from oppressive restrictions."],
+        ["Luminosity", "The intrinsic brightness of a celestial object."]
+    ],
+    "M": [
+        ["Mystique", "A quality of mystery, glamour, or power associated with someone or something."],
+        ["Melancholy", "A feeling of pensive sadness, typically with no obvious cause."],
+        ["Maverick", "An unorthodox or independent-minded person."],
+        ["Mosaic", "A picture or pattern produced by arranging together small pieces of stone, tile, etc."],
+        ["Mirth", "Amusement, especially as expressed in laughter."],
+        ["Metamorphosis", "A change of the form or nature of a thing or person into a completely different one."],
+        ["Majestic", "Having or showing impressive beauty or dignity."],
+        ["Maneuver", "A movement or series of moves requiring skill and care."],
+        ["Myriad", "A countless or extremely great number of people or things."],
+        ["Meticulous", "Showing great attention to detail; very careful and precise."]
+    ],
+    "N": [
+        ["Nebula", "A cloud of gas and dust in outer space."],
+        ["Nirvana", "A state of perfect happiness; an ideal or idyllic place."],
+        ["Nostalgia", "A sentimental longing for the past."],
+        ["Nomad", "A person who travels from place to place."],
+        ["Nebulous", "In the form of a cloud or haze; unclear, vague, or ill-defined."],
+        ["Nexus", "A connection or series of connections linking two or more things."],
+        ["Nocturnal", "Done, occurring, or active at night."],
+        ["Nuance", "A subtle difference in or shade of meaning, expression, or sound."],
+        ["Nurture", "Care for and encourage the growth or development of."],
+        ["Nautical", "Relating to sailors, ships, or navigation."]
+    ],
+    "O": [
+        ["Oasis", "A fertile spot in a desert where water is found."],
+        ["Oblivion", "The state of being unaware or unconscious of what is happening."],
+        ["Ornate", "Elaborately or highly decorated."],
+        ["Oscillate", "Move or swing back and forth in a regular rhythm."],
+        ["Opaque", "Not able to be seen through; not transparent."],
+        ["Opulent", "Ostentatiously rich and luxurious or lavish."],
+        ["Omnipotent", "Having unlimited power; able to do anything."],
+        ["Optimist", "A person who tends to be hopeful and confident about the future."],
+        ["Orchestra", "A large group of instrumentalists playing together."],
+        ["Overture", "An introduction to something more substantial."]
+    ],
+    "P": [
+        ["Paradox", "A seemingly absurd or contradictory statement or proposition."],
+        ["Phantom", "A ghost or a figment of the imagination."],
+        ["Prismatic", "Relating to or having the form of a prism."],
+        ["Pinnacle", "The most successful point; the culmination."],
+        ["Placid", "Calm and peaceful, with little movement or activity."],
+        ["Prologue", "A separate introductory section of a literary work."],
+        ["Prowess", "Skill or expertise in a particular activity or field."],
+        ["Pandemonium", "Wild and noisy disorder or confusion; uproar."],
+        ["Perennial", "Lasting or existing for a long time; enduring."],
+        ["Pulchritude", "Beauty."]
+    ],
+    "Q": [
+        ["Quintessence", "The most perfect or typical example of a quality or class."],
+        ["Quirk", "A peculiar behavioral habit."],
+        ["Quandary", "A state of perplexity or uncertainty over what to do in a difficult situation."],
+        ["Quiver", "Tremble or shake with a slight rapid motion."],
+        ["Quaint", "Attractively unusual or old-fashioned."],
+        ["Quasar", "A massive and extremely remote celestial object."],
+        ["Quench", "Satisfy one's thirst by drinking."],
+        ["Quixotic", "Exceedingly idealistic; unrealistic and impractical."],
+        ["Quota", "A limited quantity of a particular thing."],
+        ["Quibble", "A slight objection or criticism."]
+    ],
+    "R": [
+        ["Radiant", "Sending out light; shining or glowing brightly."],
+        ["Ramble", "Walk for pleasure, typically without a definite route."],
+        ["Rapture", "A feeling of intense pleasure or joy."],
+        ["Rejuvenate", "Make (someone) look or feel younger, fresher, or more lively."],
+        ["Rendezvous", "A meeting at an agreed time and place."],
+        ["Resplendent", "Attractive and impressive through being richly colorful."],
+        ["Rhapsody", "An effusively enthusiastic or ecstatic expression of feeling."],
+        ["Ripple", "A small wave or series of waves on the surface of water."],
+        ["Rustic", "Relating to the countryside; rural."],
+        ["Riddle", "A question or statement intentionally phrased so as to require ingenuity in ascertaining its answer."]
+    ],
+    "S": [
+        ["Serendipity", "The occurrence of events by chance in a happy or beneficial way."],
+        ["Spectrum", "A band of colors produced by separation of the components of light."],
+        ["Silhouette", "The dark shape and outline of someone or something visible in restricted light."],
+        ["Solace", "Comfort or consolation in a time of distress or sadness."],
+        ["Sapphire", "A transparent precious stone, typically blue."],
+        ["Symbiosis", "Interaction between two different organisms living in close physical association."],
+        ["Sanctuary", "A place of refuge or safety."],
+        ["Spiral", "Winding in a continuous and gradually widening curve."],
+        ["Succinct", "Briefly and clearly expressed."],
+        ["Synergy", "The interaction or cooperation of two or more organizations to produce a combined effect greater than the sum of their separate effects."]
+],
+    "T": [
+        ["Talisman", "An object, typically an inscribed ring or stone, that is thought to have magic powers."],
+        ["Tantalize", "Torment or tease (someone) with the sight or promise of something that is unobtainable."],
+        ["Tawdry", "Showy but cheap and of poor quality."],
+        ["Terra", "The planet earth."],
+        ["Thrive", "Prosper; flourish."],
+        ["Tranquil", "Free from disturbance; calm."],
+        ["Traverse", "Travel across or through."],
+        ["Tremor", "An involuntary quivering movement."],
+        ["Trinket", "A small ornament or item of jewelry that is of little value."],
+        ["Turbulent", "Characterized by conflict, disorder, or confusion; not controlled or calm."]
+    ],
+    "U": [
+        ["Ubiquitous", "Present, appearing, or found everywhere."],
+        ["Umbrella", "A device consisting of a circular canopy of cloth on a folding metal frame."],
+        ["Unanimous", "Fully in agreement."],
+        ["Universe", "All existing matter and space considered as a whole."],
+        ["Unravel", "Undo (twisted, knitted, or woven threads)."],
+        ["Utopia", "An imagined place or state of things in which everything is perfect."],
+        ["Ubiquity", "The fact of appearing everywhere or of being very common."],
+        ["Ultimate", "Being or happening at the end of a process."],
+        ["Unabashed", "Not embarrassed, disconcerted, or ashamed."],
+        ["Unassuming", "Not pretentious or arrogant; modest."]
+    ],
+    "V": [
+        ["Vagabond", "A person who wanders from place to place without a home or job."],
+        ["Vanguard", "A group of people leading the way in new developments or ideas."],
+        ["Vestige", "A trace of something that is disappearing or no longer exists."],
+        ["Vibrant", "Full of energy and enthusiasm."],
+        ["Vignette", "A brief evocative description, account, or episode."],
+        ["Virtuoso", "A person highly skilled in music or another artistic pursuit."],
+        ["Volatile", "Liable to change rapidly and unpredictably, especially for the worse."],
+        ["Vortex", "A mass of whirling fluid or air, especially a whirlpool or whirlwind."],
+        ["Voyage", "A long journey involving travel by sea or in space."],
+        ["Vulnerable", "Exposed to the possibility of being attacked or harmed."]
+    ],
+    "W": [
+        ["Wanderlust", "A strong desire to travel."],
+        ["Whimsical", "Playfully quaint or fanciful, especially in an appealing and amusing way."],
+        ["Wistful", "Having or showing a feeling of vague or regretful longing."],
+        ["Wondrous", "Inspiring a feeling of wonder or delight; marvelous."],
+        ["Writhe", "Make continual twisting, squirming movements or contortions of the body."],
+        ["Wander", "Walk or move in a leisurely or aimless way."],
+        ["Wane", "Have a progressively smaller part of its visible surface illuminated."],
+        ["Wary", "Feeling or showing caution about possible dangers or problems."],
+        ["Waver", "Shake with a quivering motion."],
+        ["Wince", "Give a slight involuntary grimace or shrinking movement of the body out of or in anticipation of pain or distress."]
+    ],
+    "X": [
+        ["Xenophile", "A person who is attracted to foreign peoples, cultures, or customs."],
+        ["Xenophobia", "Dislike of or prejudice against people from other countries."],
+        ["Xylophone", "A musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets."],
+        ["Xenon", "A chemical element, a heavy, colorless, odorless noble gas."],
+        ["Xeriscape", "A style of landscape design requiring little or no irrigation or other maintenance."],
+        ["Xerox", "A photocopy made using a Xerox copying machine or similar apparatus."],
+        ["Xylography", "The art of making engravings on wood especially for printing."],
+        ["Xyloid", "Resembling wood; woody."],
+        ["Xanthic", "Of or relating to yellow color."],
+        ["Xanthous", "Of or relating to yellow color."]
+    ],
+    "Y": [
+        ["Yearn", "Have an intense feeling of longing for something."],
+        ["Yonder", "At some distance in the direction indicated; over there."],
+        ["Yacht", "A medium-sized sailboat equipped for cruising or racing."],
+        ["Yen", "A strong desire or inclination."],
+        ["Yield", "Produce or provide (a natural, agricultural, or industrial product)."],
+        ["Yoke", "A wooden crosspiece that is fastened over the necks of two animals and attached to the plow or cart that they are to pull."],
+        ["Yore", "Of long ago or former times (used in nostalgic or mock-nostalgic recollection)."],
+        ["Yowl", "A loud wailing cry, especially one of pain or distress."],
+        ["Yen", "A strong desire or inclination."],
+        ["Yield", "Produce or provide (a natural, agricultural, or industrial product)."]
+    ],
+    "Z": [
+        ["Zenith", "The time at which something is most powerful or successful."],
+        ["Zephyr", "A soft gentle breeze."],
+        ["Zest", "Great enthusiasm and energy."],
+        ["Zigzag", "A line or course having abrupt alternate right and left turns."],
+        ["Zany", "Amusingly unconventional and idiosyncratic."],
+        ["Zestful", "Full of energy and enthusiasm."],
+        ["Zippy", "Bright, fresh, or lively."],
+        ["Zany", "Amusingly unconventional and idiosyncratic."],
+        ["Zest", "Great enthusiasm and energy."],
+        ["Zenith", "The time at which something is most powerful or successful."]
+    ]
+}
+
+
+
+
