@@ -1,3 +1,4 @@
+# definable_backend_app/management/commands/populate_dictionary.py
 from django.core.management.base import BaseCommand
 import json
 from definable_backend_app.models import Word, Definition, WordVote, DefinitionVote, WordStatus, DefinitionStatus, \

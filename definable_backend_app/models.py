@@ -79,6 +79,9 @@ class Word(models.Model):
 
             self.save(update_fields=['live_definition'])
 
+    def __str__(self):
+        return self.word
+
 
 @receiver(pre_save, sender=Word)
 def update_word_status(sender, instance, **kwargs):
@@ -117,7 +120,7 @@ class Definition(models.Model):
         return 'Voted' if DefinitionVote.objects.filter(definition=self, user=user).exists() else 'Not Voted'
 
     def __str__(self):
-        return f'{self.word}: {self.definition_text[:50]}'
+        return f"{self.word}: {self.definition_text[:50]}"
 
 
 class DefinitionVote(models.Model):
